@@ -13,8 +13,7 @@ Web Application Development
 (This assignment makes a program which calculates the percentage from amounts given by the user.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://jam15k.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. (get element by ID)
